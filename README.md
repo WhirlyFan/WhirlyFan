@@ -15,7 +15,7 @@ My name is Michael Lee ✌! I'm a full-stack software engineer! Check out some o
 - 💬 Ask me about anything I've worked on or anything in general!
 - 📫 How to reach me: mhykoly@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Tacos are amazing. That is fact! 🌮🌮🌮
+- ⚡ Fun fact: Refreshing this page gets a new background!! 🤯🤯🤯
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
