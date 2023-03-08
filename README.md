@@ -1,7 +1,13 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hey+there+swanky+coders!+%F0%9F%91%8B;My+name+is+Michael+Lee!+%E2%9C%8C" alt="Typing SVG" />
-</a>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hey+there+swanky+coders!+%F0%9F%91%8B;My+name+is+Michael+Lee!+%E2%9C%8C" alt="Typing SVG" />
+  </a>
+</div>
 
-<img src="https://minimalistic-wallpaper.demolab.com/?random" alt="wallpaper">
+<div align="center">
+  <img src="https://minimalistic-wallpaper.demolab.com/?random" alt="wallpaper" style="width: 80%; height: auto;">
+</div>
+
+<hr/>
 
 I'm a full-stack software engineer! Check out some of my projects pinned on my profile to see some of my work. I'm most familiar with JavaScript, React, Redux, Python, Flask, SQLAlchemy, Sequelize, PostgreSQL, and HTML/CSS. I've got a background in Finance and degrees in International Studies and Business Economics for the University of California, Irvine. I'm also a graduate from an immersive full-stack coding bootcamp, App Academy, and am looking forward to expanding my technical skills!
 
