@@ -11,9 +11,10 @@
 My name is Michael Lee ✌! I'm a full-stack software engineer! Check out some of my projects pinned on my profile to see some of my work. I'm most familiar with JavaScript, React, Redux, Python, Flask, SQLAlchemy, Sequelize, PostgreSQL, and HTML/CSS. I've got a background in Finance and degrees in International Studies and Business Economics for the University of California, Irvine. I'm also a graduate from an immersive full-stack coding bootcamp, App Academy, and am looking forward to expanding my technical skills!
 
 - 🔭 I’m currently working on Lister, HangersAcademy, TheBnB
-- 🌱 I’m currently learning TensorFlow with Python
+- 🌱 I’m currently learning Java so I can make some minecraft mods!
 - 💬 Ask me about anything I've worked on or anything in general!
 - 📫 How to reach me: mhykoly@gmail.com
+- 📁 Portfolio: https://whirlyfan.com/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Refreshing this page gets a new background!! 🤯🤯🤯
 <!--
@@ -45,4 +46,7 @@ My name is Michael Lee ✌! I'm a full-stack software engineer! Check out some o
 ## Let's Get Connected!
 <a href="https://www.linkedin.com/in/mhykoly/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://angel.co/u/michael-lee-304" target="_blank"><img alt="Wellfound" src="https://img.shields.io/badge/wellfound-%ccc.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://app.joinhandshake.com/stu/users/13605553" target="_blank">![Handshake](https://img.shields.io/badge/handshake-green?style=for-the-badge&logo=handshake&logoColor=white)</a>
 <a href="mailto:mhykoly@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+
