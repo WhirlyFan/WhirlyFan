@@ -8,7 +8,7 @@
 
 <hr/>
 
-My name is Michael Lee ✌! I'm a full-stack software engineer! Check out some of my projects pinned on my profile to see some of my work. I'm most familiar with JavaScript, React, Redux, Python, Flask, SQLAlchemy, Sequelize, PostgreSQL, and HTML/CSS. I've got a background in Finance and degrees in International Studies and Business Economics for the University of California, Irvine. I'm also a graduate from an immersive full-stack coding bootcamp, App Academy, and am looking forward to expanding my technical skills!
+My name is Michael Lee ✌! I'm a full-stack software engineer! Check out some of my projects pinned on my profile to see some of my work. I'm most familiar with JavaScript, React, Redux, Python, Flask, SQLAlchemy, Sequelize, PostgreSQL, and HTML/CSS. I've got a background in Finance and degrees in International Studies and Business Economics from the University of California, Irvine. I'm also a graduate from an immersive full-stack coding bootcamp, App Academy, and am looking forward to expanding my technical skills!
 
 - 🔭 I’m currently working on Lister, HangersAcademy, TheBnB
 - 🌱 I’m currently learning Java so I can make some minecraft mods!
