@@ -16,7 +16,7 @@ My name is Michael Lee ✌! I'm a full-stack software engineer! Check out some o
 - 📫 How to reach me: mhykoly@gmail.com
 - 📁 Portfolio: https://whirlyfan.com/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Refreshing this page gets a new background!! 🤯🤯🤯
+- ⚡ Fun fact: This page has a random background!! 🤯🤯🤯
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
