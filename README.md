@@ -49,7 +49,7 @@ My name is Michael Lee ✌! I'm a full-stack software engineer! Check out some o
 ## Let's Get Connected!
 <a href="https://www.linkedin.com/in/mhykoly/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://wellfound.com/u/mhykoly/" target="_blank"><img alt="Wellfound" src="https://img.shields.io/badge/wellfound-%ccc.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://app.joinhandshake.com/stu/users/13605553" target="_blank">![Handshake](https://img.shields.io/badge/handshake-green?style=for-the-badge&logo=handshake&logoColor=white)</a>
+<a href="https://app.joinhandshake.com/profiles/58247551" target="_blank">![Handshake](https://img.shields.io/badge/handshake-green?style=for-the-badge&logo=handshake&logoColor=white)</a>
 <a href="mailto:mhykoly@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 
