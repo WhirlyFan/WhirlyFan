@@ -8,7 +8,7 @@
 
 <hr/>
 
-My name is Michael Lee ✌! I'm a full-stack software engineer! Check out some of my projects pinned on my profile to see some of my work. I'm most familiar with TypeScript, React, Redux, Python, Flask, Django, Apollo, GraphQL, SQLAlchemy, Sequelize, PostgreSQL, and HTML/CSS. I've got a background in Finance and undergraduate degrees in International Studies and Business Economics from the University of California, Irvine. I'm currently working on my Masters in Science of Computer Science at the University of Texas at Austin. I'm always looking forward to expanding my technical skills!
+My name is Michael Lee ✌! I'm a full-stack software engineer! Check out some of my projects pinned on my profile to see some of my work. I'm most familiar with TypeScript, React, Redux, Python, Flask, Django, GraphQL, PostgreSQL, HTML/CSS, and PyTorch. I've got a background in Finance and undergraduate degrees in International Studies and Business Economics from the University of California, Irvine. I'm currently working on my Masters in Science of Computer Science at the University of Texas at Austin. I'm always looking forward to expanding my technical skills!
 
 - 🔭 I’m currently working on a new super secret project!
 - 🌱 I’m currently learning GraphQL, TypeScript, and Django
@@ -44,7 +44,6 @@ My name is Michael Lee ✌! I'm a full-stack software engineer! Check out some o
   <img src="https://img.shields.io/badge/GraphQL-red?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/django-green?style=for-the-badge&logo=django&logoColor=darkgreen" />
   <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
 ## Let's Get Connected!
