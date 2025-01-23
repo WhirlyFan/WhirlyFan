@@ -44,6 +44,7 @@ My name is Michael Lee ✌! I'm a full-stack software engineer! Check out some o
   <img src="https://img.shields.io/badge/GraphQL-red?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/django-green?style=for-the-badge&logo=django&logoColor=darkgreen" />
   <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
 ## Let's Get Connected!
